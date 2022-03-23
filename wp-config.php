@@ -29,7 +29,7 @@ define( 'DB_USER', 'U1cBk4lFvi' );
 define( 'DB_PASSWORD', '0kDJHklRJJ' );
 
 /** Database hostname */
-define( 'DB_HOST', 'https://remotemysql.com' );
+define( 'DB_HOST', 'remotemysql.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
